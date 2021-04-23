@@ -15,7 +15,6 @@
 <br />
 <br />
 <br />
-<br />
 
 
 ### I am Helman Andres Ortegon
@@ -24,7 +23,7 @@
 - 💼 &nbsp; Searching for a job.
 - 🌱 &nbsp; Learning more about Redux and React.
 - ✍️ &nbsp; Pursuing Video Game desing and learning C++.
-<br/>
+
 <br/>
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
