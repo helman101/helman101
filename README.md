@@ -52,8 +52,8 @@
 <br/>
 
 <p align="center">
-  <a><img align="center" height="250em" src="https://github-readme-stats.vercel.app/api?username=helman101&show_icons=true&theme=tokyonight" alt="helman101 :: Profile Stats" /></a>
-  <a><img align="center" height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=helman101&langs_count=10&theme=tokyonight&layout=compact" alt="helman101 :: Top Langs" /></a>
+  <a><img align="center" height="200em" src="https://github-readme-stats.vercel.app/api?username=helman101&show_icons=true&theme=tokyonight" alt="helman101 :: Profile Stats" /></a>
+  <a><img align="center" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=helman101&langs_count=10&theme=tokyonight&layout=compact" alt="helman101 :: Top Langs" /></a>
 </p>
 
 
