@@ -19,8 +19,8 @@
 
 ### I am Helman Andres Ortegon
 - 🤔 &nbsp; A Full Stack Web developer.
-- 🎓 &nbsp; Currently studying at Microverse.
-- 💼 &nbsp; Searching for a job.
+- 🎓 &nbsp; Adquired experience and knowledge at Microverse.
+- 💼 &nbsp; Currently working at Ipermatch.
 - 🌱 &nbsp; Learning more about Redux and React.
 - ✍️ &nbsp; Pursuing Video Game desing and learning C++.
 
